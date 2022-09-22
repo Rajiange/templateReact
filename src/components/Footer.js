@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer>
 
-      <Navbar className='color-nav' variant='dark'>
+      <Navbar className='py-3 color-nav' variant='dark'>
         <Container>
           <Navbar.Brand href="/home">Rajiange</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

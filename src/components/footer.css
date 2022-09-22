@@ -1,0 +1,22 @@
+.color-nav{
+    background-color: #0b1b32;
+}
+ul {
+    list-style-type: none;
+}
+.example {
+    text-align: start;
+    text-align: left;
+    padding-bottom: 25px;
+    padding-left: 250px;
+    font-size: 25px;
+    color: white;
+
+}
+li {
+    text-align: center
+}
+
+.testing {
+    color: white;
+}
